@@ -1,0 +1,12 @@
+torch>=1.12.0
+torchvision
+numpy
+nibabel
+monai>=1.2.0
+mamba-ssm
+torchio>=0.19.0
+scikit-learn
+matplotlib
+tqdm
+pillow
+pyyaml

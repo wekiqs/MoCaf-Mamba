@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "MoCaf-Mamba: Modality Completion and Alignment in Feature Space"
+message: "If you use this software, please cite the following paper."
+type: software
+authors:
+  - name: "MoCaf-Mamba Authors"
+repository-code: "https://github.com/Anonymous/MoCaf-Mamba"
+url: "https://anonymous.4open.science/r/MoCaf-Mamba-467C/"
+conference:
+  name: "International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)"
+  year: 2026
